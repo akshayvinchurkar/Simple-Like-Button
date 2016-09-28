@@ -1,2 +1,1 @@
-Simple Like Button Implemented in localstorage for fun but after you exit from browser this will reset the state and lo longer
-remember the count
+Simple Like Button Implemented in localstorage for fun also if you exit from browser no stay in memory and remain the value of how many likes you have
